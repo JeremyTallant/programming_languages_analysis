@@ -18,3 +18,12 @@ install.packages("IRkernel")
 IRkernel::installspec()
 ```
 After completing the installation, launch Jupyter Notebook, navigate to the folder containing the notebook file, and open it to begin running the analyses.
+## Contents
+1. **Data on tags over time:** An overview of the dataset containing information about tags and their usage over time.
+2. **Now in fraction format:** Transforming the data to represent tag usage as a fraction of total questions asked per year.
+3. **Has R been growing or shrinking?:** Analyzing the trend of R programming language usage on Stack Overflow.
+4. **Visualizing change over time:** Creating visualizations to better understand the changes in tag usage over time.
+5. **How about dplyr and ggplot2?:** Investigating the trends of dplyr and ggplot2 package usage within the R community.
+6. **What are the most asked-about tags?:** Identifying the most popular tags on Stack Overflow.
+7. **How have large programming languages changed over time?:** Analyzing the changes in the popularity of major programming languages over time. 
+8. **Some more tags!:** Exploring additional tags and their usage trends on Stack Overflow.  
